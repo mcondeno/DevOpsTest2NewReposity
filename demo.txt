@@ -1,2 +1,2 @@
 This is a new file
-second line
+second line..merged this line
